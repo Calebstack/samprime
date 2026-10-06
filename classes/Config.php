@@ -1,14 +1,9 @@
 <?php
 error_reporting(E_ALL);
 
-define("DB_HOST", "sql101.infinityfree.com");
-define("DB_NAME", "if0_42614657_automobile_db");
-define("DB_USER", "if0_42614657");
-define("DB_PASS", "uls8RMhHrbMHQ4a");
-
-// define("DB_HOST", "localhost");
-// define("DB_NAME", "automobile_db");
-// define("DB_USER", "root");
+// define("DB_HOST", "");
+// define("DB_NAME", "");
+// define("DB_USER", "");
 // define("DB_PASS", "");
 
 
